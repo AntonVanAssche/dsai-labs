@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Final exam directory
-./8-final-exam
+8-final-exam/
